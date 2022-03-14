@@ -156,6 +156,7 @@ body {
 .intr-text-content{
     color: white;
     font-size: 18px;
+    line-height: 125%;
 }
 
 .intr-tr {
